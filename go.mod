@@ -1,4 +1,4 @@
-module github/gota33/logrus-loki-hook
+module github.com/gota33/logrus-loki-hook
 
 go 1.20
 

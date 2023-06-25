@@ -11,7 +11,7 @@ package main
 
 import (
 	"github.com/sirupsen/logrus"
-	llh "github/gota33/logrus-loki-hook"
+	llh "github.com/gota33/logrus-loki-hook"
 )
 
 func main() {
